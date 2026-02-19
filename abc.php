@@ -67,7 +67,7 @@
             echo "Not Same";
         }
 
-        echo $h[3]."<br><br>";
+        echo $h[2]."<br><br>";
         foreach($h as $i){
             echo $i."<br>";
         } echo "<br>";
